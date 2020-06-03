@@ -1,0 +1,6 @@
+classes= 1
+train  = roadsign_data/train.txt
+valid  = roadsign_data/valid.txt
+names = data/roadsigns.names
+backup = duckie_backup
+
